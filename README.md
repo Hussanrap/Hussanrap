@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hussanrap
 - 👀 I’m interested in Coding and working on group projects 
-- 🌱 I’m currently learning Python, C#, and C++ 
+- 🌱 I’m currently learning Python, C#, Java, and C++ 
 - 💞️ I’m looking to collaborate on new projects within the Python language
 - 📫 How to reach me via email hussainkazi2008@gmail.com
 
